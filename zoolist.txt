@@ -1,0 +1,6 @@
+Cat{nickname='Murka', legs=4, owner='Andrey'}
+Dog{nickname='Sharik', legs=4, owner='Oleg'}
+Duck{nickname='Donald', legs=2, owner='Igor'}
+Fish{nickname='Nemo', legs=0, owner='Sacha'}
+Seal{nickname='Kotik', legs=3, owner='Zoopark'}
+Eagle{nickname='Berkut', legs=2, owner='Ivan'}
